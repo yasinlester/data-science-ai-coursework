@@ -127,7 +127,8 @@ Use advanced NLP models (e.g. LSTM, Transformers).
 
 Incorporate more recent datasets (digital/mobile gaming).
 
-References
+References:
+
 Gregorut, V. (n.d.). Video Game Sales Dataset. [online] Kaggle. Available at: 
 https://www.kaggle.com/datasets/gregorut/videogamesales [Accessed 20th Jan. 2025].
 
